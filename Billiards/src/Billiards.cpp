@@ -11,5 +11,12 @@ using namespace std;
 
 int main() {
 	cout << "Hola crack fiera" << endl; // prints !!!Hello World!!!
+	
 	return 0;//hola hola caracola
+	
+}
+int metodoEntero()//Función sin parámetros para sumar
+{
+    int suma = 5+5;
+    return suma;
 }
